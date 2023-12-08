@@ -2,3 +2,5 @@
 
 
 ls
+cat | ls
+
