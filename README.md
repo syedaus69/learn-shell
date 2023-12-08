@@ -1,4 +1,4 @@
 # learn-shell
 
-sudo dnf list
+sudo dnf list installed | grep nginx
 
