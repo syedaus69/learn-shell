@@ -2,5 +2,5 @@
 
 
 ls
-cat | ls
+mv README.md SAMPLE
 
