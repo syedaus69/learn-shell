@@ -2,3 +2,4 @@
 
 sudo dnf list | grep nginx
 #sudo dnf install nginx
+$?
